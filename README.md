@@ -1,5 +1,6 @@
 # GitHub Actions Fundamentals
 
+Edit to trigger Github action
 Repo for the `GitHub Actions Fundamentals` training.
 
 ## 👉 Objectives
